@@ -16,4 +16,4 @@ for y in range(1, h):
         if g[y][x] == 'X':
             continue
         dp[y][x] = dp[y-1][x] + dp[y][x-1]
-print(dp[-1][-1])
+print(dp[-1][-1] % 1000000007)
