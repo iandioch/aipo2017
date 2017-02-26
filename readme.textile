@@ -1,0 +1,7 @@
+h1. AIPO 2017 Solutions
+
+I helped out at the "All Ireland Programming Olympiad":http://aipo.computing.dcu.ie 2017 final round, the second-last qualifier to choose the Irish team for the IOI(International Olympiad in Informatics) ("this year in Tehran":http://ioi2017.org/). Following this round, the top 8 competitors continue to a training camp and further competition to choose the 4-person team.
+
+There were 8 problems were prepared; @p1@-@p4@ were worth 50 points, and @p5@-@p8@ were worth 100. Partial marks were awarded for solving a subset of the given test cases. Solutions could be submitted in @C@, @C++@, @Python3.4@, @Java@ (I think @Java8@, but suspect there would be problems), and I believe @Pascal@ too. While helping out during the competition, I got an hour or two to try some of the problems and submit to the ranking system. Here are my results, garnering 285 points.
+
+*Ádh mór leis an bhfoireann éireannach sa chomórtas, is cuma cé hiad!*
